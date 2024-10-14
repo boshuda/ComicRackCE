@@ -31,6 +31,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		CompressIconFolders.ps1 = CompressIconFolders.ps1
 		directory.build.props = directory.build.props
 		Installer.iss = Installer.iss
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{C335F5E2-2C66-465E-B59B-33F8E13B287E}"
